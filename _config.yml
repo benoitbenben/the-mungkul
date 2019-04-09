@@ -1,0 +1,13 @@
+# Site settings
+title: The Mungkul, Cottages & Restaurant
+email: manager@themungkulcottage.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+
+facebook username: https://www.facebook.com/TheMungkul/
+instagram username: https://www.instagram.com/the_mungkul_nusapenida/
+
+# Build settings
+markdown: kramdown
