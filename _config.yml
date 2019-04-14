@@ -6,7 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # my plugins = gemfile then run "gem install jekyll-name-plugin"
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
