@@ -123,14 +123,14 @@ header {
   -o-background-size: cover;
   background-position: center;
   background-image: url("../img/mungkul-nusapenida.jpg");
-  text-align: center; }
+  text-align: center;
+  color: white; }
   header .header-content {
     position: relative;
     text-align: center;
     padding: 100px 15px 100px;
     width: 100%; }
     header .header-content .header-content-inner h1 {
-      color: silver;
       font-weight: 700;
       text-transform: uppercase;
       margin-top: 0;
@@ -138,9 +138,9 @@ header {
     header .header-content .header-content-inner hr {
       margin: 30px auto; }
     header .header-content .header-content-inner p {
-      font-weight: 600;
-      color: white;
-      font-size: 20px;
+      font-weight: 300;
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 16px;
       margin-bottom: 50px; }
   @media (min-width: 768px) {
     header {
