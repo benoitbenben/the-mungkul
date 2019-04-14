@@ -139,7 +139,7 @@ header {
       margin: 30px auto; }
     header .header-content .header-content-inner p {
       font-weight: 300;
-      color: rgba(255, 255, 255, 0.9);
+      color: white;
       font-size: 16px;
       margin-bottom: 50px; }
   @media (min-width: 768px) {
@@ -214,6 +214,48 @@ header {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
+      font-size: 22px; } }
+
+.logo-box {
+  position: relative;
+  display: block;
+  max-width: 650px;
+  margin: 0 auto; }
+  .logo-box .logo-box-caption {
+    color: white;
+    opacity: 0;
+    display: block;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s; }
+    .logo-box .logo-box-caption .logo-box-caption-content {
+      width: 100%;
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%); }
+      .logo-box .logo-box-caption .logo-box-caption-content .project-category,
+      .logo-box .logo-box-caption .logo-box-caption-content .project-name {
+        font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        padding: 0 15px; }
+      .logo-box .logo-box-caption .logo-box-caption-content .project-category {
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 14px; }
+      .logo-box .logo-box-caption .logo-box-caption-content .project-name {
+        font-size: 18px; }
+  .logo-box:hover .logo-box-caption {
+    opacity: 0.9; }
+  @media (min-width: 768px) {
+    .logo-box .logo-box-caption .logo-box-caption-content .project-category {
+      font-size: 16px; }
+    .logo-box .logo-box-caption .logo-box-caption-content .project-name {
       font-size: 22px; } }
 
 .call-to-action h2 {
