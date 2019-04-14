@@ -120,9 +120,9 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba(black, .9);
             &:hover {
-                color: white;
+                color: dark;
             }
         }
         &.affix {
