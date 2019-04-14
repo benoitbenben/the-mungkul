@@ -319,6 +319,9 @@ header {
 #contact .fa {
     color: $theme-dark;
     font-size: 4em;
+     &:hover {
+      color: $theme-primary;
+    }
 }
 
 // Extras

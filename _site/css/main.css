@@ -279,6 +279,8 @@ header {
 #contact .fa {
   color: #222;
   font-size: 4em; }
+  #contact .fa:hover {
+    color: #9bb88f; }
 
 ::-moz-selection {
   color: white;
