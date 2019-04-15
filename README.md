@@ -1,13 +1,12 @@
 
-# Creative Theme for Jekyll & The Mungkul
+# The Mungkul, Cottages & Restaurant - Nusa Penida (Bali)
 
-use this theme for this website project
+Quick presentation for this amazing airbnb on paradise island.
 
-## To use the Creative Theme template in your project
+## Do not hesitate to book in our place
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+- Stay with us in our little paradise.
+- Enjoy the area with superhost.
 
 
 
