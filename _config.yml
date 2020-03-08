@@ -8,8 +8,9 @@ author: "Benoittravel"
 
 # my plugins = gemfile then run "gem install jekyll-name-plugin"
 plugins:
-  - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 instagram :
   app_id: https://www.instagram.com/the_mungkul_nusapenida/
