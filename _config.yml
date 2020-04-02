@@ -3,7 +3,7 @@ title: The Mungkul, Cottages & Restaurant
 email: manager@themungkulcottage.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "bamboolover.me" # the base hostname & protocol for your site
 author: "Benoittravel"
 
 # my plugins = gemfile then run "gem install jekyll-name-plugin"
